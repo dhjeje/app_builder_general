@@ -1,12 +1,12 @@
 ## Project v3 repositories
-- [App Builder User Documentation] (https://github.com/ZZZops/BuilderHelp)
-- [App Builder Web interface (frontend part, Angular 17)] (https://github.com/ZZZops/AdminPanel)
-- [App Builder Core (backend part, Laravel 7, PHP8)] (https://github.com/ZZZops/Core)
+- [App Builder User Documentation] (https://github.com/dhjeje/BuilderHelp)
+- [App Builder Web interface (frontend part, Angular 17)] (https://github.com/dhjeje/AdminPanel)
+- [App Builder Core (backend part, Laravel 7, PHP8)] (https://github.com/dhjeje/Core)
 
 
 ### Version 2 (old)
-- [App Builder Web interface (frontend part, Angular 11, previous version)] (https://github.com/ZZZops/AdminPanelOld)
-- [App Builder Core, previous version (backend part, Laravel 7, PHP8)] (https://github.com/ZZZops/CoreOld)
+- [App Builder Web interface (frontend part, Angular 11, previous version)] (https://github.com/dhjeje/AdminPanelOld)
+- [App Builder Core, previous version (backend part, Laravel 7, PHP8)] (https://github.com/dhjeje/CoreOld)
 
   
 ## Project Setup
